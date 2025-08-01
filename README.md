@@ -1,45 +1,64 @@
-# 🚀 Welcome to My GitHub Space
+<h1 align="center">✨ Abhay | Creative Developer & Code Explorer ✨</h1>
 
-Hey there! I’m **Abhay** 👋 — a passionate developer on a mission to turn code into creative digital experiences.
-
-This repository isn’t just a project — it’s a **canvas of innovation**, a **living journey**, and a **reflection of my evolution** in web development. I’m currently diving deep into **Java**, **HTML**, and the **MEAN stack**, blending logic with design to create smooth, smart, and scalable web experiences.
-
-💡 *Every bug is a lesson. Every line is a leap. Every build is a breakthrough.*  
-
-Explore, fork, or star — and if something sparks your interest, let’s connect!
+<p align="center">
+  <em>Turning logic into design, and code into experience.</em><br>
+  <strong>Welcome to my GitHub world — a space where creativity meets clean code.</strong>
+</p>
 
 ---
 
-## 🌐 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-608339248/)  
-📧 abhay.dec03@gmail.com
+## 👋 About Me
+Hi! I'm **Abhay**, a passionate engineer and developer with a flair for building sleek, smart, and scalable digital experiences. I'm currently exploring the depths of:
+
+- ☕ Java Programming  
+- 🎨 UI & Web Design with HTML5 and Adobe tools  
+- 🌐 Always learning, always experimenting
+
+I believe in **code with character** — code that speaks, solves, and shines. This GitHub is a living archive of everything I build, break, fix, and reimagine.
 
 ---
 
-## 🛠️ Tech Arsenal
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+## 🚀 Tech Toolkit  
+<div align="center">
+  
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![Adobe](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
-## 📊 GitHub Metrics
-![Stats](https://github-readme-stats.vercel.app/api?username=ABHAY-0312&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ABHAY-0312&theme=tokyonight&hide_border=false)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABHAY-0312&theme=tokyonight&hide_border=false&layout=compact)
+## 📊 My GitHub at a Glance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ABHAY-0312&theme=github_dark&hide_border=false&show_icons=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ABHAY-0312&theme=github-dark&hide_border=false" width="48%"/><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHAY-0312&layout=compact&theme=github_dark&hide_border=false" width="40%"/>
+</p>
 
 ---
 
-## 🏆 Trophies & Contributions
-![Trophies](https://github-profile-trophy.vercel.app/?username=ABHAY-0312&theme=gruvbox&no-frame=true&no-bg=false&margin-w=6)
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=ABHAY-0312&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+## 🏆 Achievements & Highlights
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ABHAY-0312&theme=onedark&no-bg=true&no-frame=true&margin-w=15"/>
+</p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ABHAY-0312&limit=5&theme=github-dark&combine_all_yearly_contributions=true" width="80%"/>
+</p>
 
 ---
 
-## 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' width="400" alt="dev meme"/>
+## 🌐 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/abhay-608339248/)
+- 📧 abhay.dec03@gmail.com  
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=ABHAY-0312&icon=2&color=3)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ABHAY-0312&icon=2&color=3" />
+</p>
