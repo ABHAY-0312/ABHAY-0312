@@ -2,15 +2,6 @@
 
 # 🌟 Abhay | Crafting Digital Dreams into Reality
 
-```ascii
-   ___    ____  __  ____  _____  __
-  / _ |  / __ )/ / / /  |/  /  |/  /
- / __ | / __  / /_/ / /|_/ / /|_/ / 
-/_/ |_|/_/ |_/\____/_/  /_/_/  /_/  
-                                     
-    Code • Create • Innovate
-```
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Creative+Developer+%26+Problem+Solver;Turning+Ideas+into+Elegant+Solutions;Building+Tomorrow's+Digital+Experiences)](https://git.io/typing-svg)
 
 </div>
@@ -32,9 +23,25 @@ Currently navigating through:
 - 🎨 **UI/UX Design** — Crafting pixel-perfect interfaces with HTML5 & Adobe Suite
 - 🧪 **Experimental Projects** — Always tinkering with new technologies and ideas
 
+**Skills & Expertise:**
+- 📊 **Product Management** — Skilled in product strategy and development
+- 🤖 **AI-Assisted Product Development** — Able to build complete AI-powered products from idea to full deployment
+
 I approach every project with curiosity and a commitment to continuous growth. This GitHub profile is my digital laboratory where experiments become products and ideas transform into impact.
 
 </details>
+
+---
+
+## 🏆 **Achievements & Recognition**
+
+<div align="center">
+
+🎖️ **Selected for State Level Building with OpenAI** | NxtWave  
+📚 **Skilled in Product Management**  
+🚀 Constantly pushing boundaries and exploring new technologies
+
+</div>
 
 ---
 
@@ -53,6 +60,10 @@ I approach every project with curiosity and a commitment to continuous growth. T
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### AI & Innovation
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Product Management](https://img.shields.io/badge/Product_Management-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
@@ -89,7 +100,13 @@ I approach every project with curiosity and a commitment to continuous growth. T
 public class Developer {
     private String name = "Abhay";
     private String[] currentlyLearning = {"Advanced Java", "Web Design", "System Architecture"};
-    private String[] interests = {"Clean Code", "UI/UX", "Problem Solving"};
+    private String[] skills = {"UI/UX Design", "Product Management", "AI-Assisted Product Development"};
+    private String[] interests = {"Clean Code", "Building AI Products", "Problem Solving"};
+    private String[] achievements = {"State Level - Building with OpenAI (NxtWave)"};
+    
+    public String specialAbility() {
+        return "Building complete AI-powered products from idea to full deployment";
+    }
     
     public void dailyRoutine() {
         while(alive) {
