@@ -1,110 +1,143 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:24243e&text=ABHAY&fontSize=70&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=AI%20Product%20Builder%20🚀%20|%20Creative%20Developer%20⚡%20|%200→1%20Execution&descAlignY=58"/>
+# 🌟 Abhay | Crafting Digital Dreams into Reality
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Products+from+0→1;Shipping+Ideas+into+Real+World+Products;Creating+Modern+Digital+Experiences;Product+Thinking+%2B+Engineering+%2B+AI"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Creative+Developer+%26+Problem+Solver;Turning+Ideas+into+Elegant+Solutions;Building+Tomorrow's+Digital+Experiences)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-# ⚡ About Me
+## 🎯 **Mission Statement**
 
-```yaml
-Name: Abhay
-Role: AI Product Builder & Creative Developer
-Focus:
-  - AI Powered Products
-  - Product Strategy
-  - Modern UI/UX
-  - Full Stack Development
-  - GenAI Workflows
+> *"Every line of code is a brushstroke on the canvas of innovation."*
 
-Mindset:
-  "Build fast. Learn faster. Ship continuously."
+I'm **Abhay**, a developer who believes in the intersection of **aesthetic design** and **robust engineering**. My work isn't just about making things function — it's about making them *beautiful*, *intuitive*, and *memorable*.
 
-🚀 Product-focused CS undergraduate passionate about building and shipping AI-driven products end-to-end.
+<details>
+<summary>📖 <b>More About My Journey</b></summary>
+<br>
 
-I specialize in transforming ideas into real products using:
+Currently navigating through:
+- ☕ **Java** — Building strong foundations in object-oriented architecture
+- 🎨 **UI/UX Design** — Crafting pixel-perfect interfaces with HTML5 & Adobe Suite
+- 🧪 **Experimental Projects** — Always tinkering with new technologies and ideas
 
-⚡ Rapid Prototyping
-🤖 AI-assisted development
-🎨 Clean UI/UX systems
-📈 Product-first thinking
+**Skills & Expertise:**
+- 📊 **Product Management** — Skilled in product strategy and development
+- 🤖 **AI-Assisted Product Development** — Able to build complete AI-powered products from idea to full deployment
 
-From concept → wireframe → development → deployment,
-I enjoy building products that solve real-world problems.
+</details>
 
-🌌 Tech Arsenal
-<div align="center"> <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,html,css,git,github,figma,vscode,mysql&theme=dark" /> </div>
-🚀 Featured Products
-<div align="center">
-🚀 Product	💡 Description	⚙️ Stack
-ToolNest	Privacy-first browser utility platform with PDF tools, JSON formatter & invoice generator	JavaScript • AI Workflows • Vercel
-DiaHelper	AI-powered diabetes risk assessment platform with chatbot & personalized health insights	AI • Product Design • Web
-StudySync	AI-assisted LMS platform focused on collaborative learning & productivity	AI • LMS • UX
-Portfolio Website	Futuristic animated developer portfolio with premium UI	React • Animation • UI/UX
-</div>
-📈 Product Impact
+---
+
+## 🏆 **Achievements & Recognition**
+
 <div align="center">
 
-🔥 Built and shipped multiple AI-powered products
-🚀 ToolNest reached 57 unique users & 199 page views organically within 4 days
-⚡ Rapid product development using AI-assisted workflows
-🎯 Strong focus on user experience + scalable systems
-🧠 Passionate about developer tools & GenAI products
+🎖️ **Selected for State Level Building with OpenAI** | NxtWave  
+📚 **Skilled in Product Management**  
+🚀 Constantly pushing boundaries and exploring new technologies
 
 </div>
-🏆 Achievements
+
+---
+
+## 🛠️ **Arsenal of Technologies**
+
 <div align="center">
 
-🥈 1st Runner-Up — Numeral Numex Competition
-🎖 State-Level Qualifier — OpenAI × NxtWave Buildathon
-🏅 AIR 27 — Mercer AI Arena 2.0 Hackathon
-💡 Top 3% among 800+ teams
-📚 AWES Merit Scholarship Recipient
+### Core Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Design & Tools
+![Adobe](https://img.shields.io/badge/Adobe_Creative_Cloud-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### AI & Innovation
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Product Management](https://img.shields.io/badge/Product_Management-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
-🛠 Currently Building
-class Abhay:
+
+---
+
+## 📈 **GitHub Analytics**
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ABHAY-0312&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ABHAY-0312&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ABHAY-0312&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" width="40%"/>
+</p>
+
+---
+
+## 💡 **Current Focus**
+
+```java
+public class Developer {
+    private String name = "Abhay";
+    private String[] currentlyLearning = {"Advanced Java", "Web Design", "System Architecture"};
+    private String[] skills = {"UI/UX Design", "Product Management", "AI-Assisted Product Development"};
+    private String[] interests = {"Clean Code", "Building AI Products", "Problem Solving"};
+    private String[] achievements = {"State Level - Building with OpenAI (NxtWave)"};
     
-    def currently_building(self):
-        return [
-            "AI Productivity Tools",
-            "Modern SaaS Interfaces",
-            "AI Workflow Automation",
-            "Developer Utility Platforms",
-            "Next Gen Web Experiences"
-        ]
+    public String specialAbility() {
+        return "Building complete AI-powered products from idea to full deployment";
+    }
     
-    def philosophy(self):
-        return "Build products users genuinely enjoy using."
-🌠 GitHub Analytics
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ABHAY-0312&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF"/> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ABHAY-0312&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF"/> </div>
-📊 Contribution Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHAY-0312&theme=tokyo-night&hide_border=true&bg_color=0d1117"/> </div>
-🧠 Profile Summary
-<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABHAY-0312&theme=tokyonight"/> </div>
-🐍 Contribution Snake
-<div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/> </div>
-⚡ Why Work With Me?
+    public void dailyRoutine() {
+        while(alive) {
+            code();
+            learn();
+            create();
+            innovate();
+        }
+    }
+}
+```
+
+---
+
+## 🌐 **Portfolio & Projects**
+
 <div align="center">
 
-✔ Product-focused mindset
-✔ Ability to build products independently
-✔ Strong UI/UX understanding
-✔ Fast learning & rapid execution
-✔ AI-assisted development expertise
-✔ Startup-style ownership mentality
+🎨 **[View My Portfolio](https://port-folio-abhay-eosin.vercel.app/)** — Explore my projects and creative work
 
 </div>
-🌐 Connect With Me
-<div align="center"> <a href="https://port-folio-abhay-eosin.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/abhay-608339248/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:abhay.dec03@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/ABHAY-0312"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=ABHAY-0312&style=for-the-badge&color=00F5FF"/>
 
-<br><br>
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212750678-f6c1f6df-9e3b-4f4f-bf87-1d7d6d46d3d8.gif" width="100%">
-✨ "Turning ideas into scalable digital products."
-</div> ```
+## 🤝 **Let's Build Something Amazing**
 
+<div align="center">
+
+I'm always excited to collaborate on innovative projects or discuss tech over coffee! ☕
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://port-folio-abhay-eosin.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-608339248/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhay.dec03@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ABHAY-0312)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 *"Code is poetry written in logic."* 🌟
+
+<img src="https://komarev.com/ghpvc/?username=ABHAY-0312&color=00D9FF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer Wave"/>
+
+</div>
