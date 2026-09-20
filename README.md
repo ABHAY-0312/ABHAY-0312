@@ -130,22 +130,23 @@ I'm working as a **Quality Engineering Intern at Deloitte**, where I get exposur
 ## 📈 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ABHAY-0312&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ABHAY-0312&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS&v=1" alt="Profile Views" />
 </div>
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ABHAY-0312&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABHAY-0312&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="48%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ABHAY-0312&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&v=1" alt="GitHub Stats" width="48%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABHAY-0312&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&v=1" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHAY-0312&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" width="48%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHAY-0312&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&v=1" alt="Top Languages" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHAY-0312&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="97%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHAY-0312&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&v=1" alt="Activity Graph" width="97%"/>
 </p>
+--
 
 ## 💻 Developer Journey
 
