@@ -137,7 +137,7 @@ As a **Quality Engineering Intern**, I get practical exposure to software testin
 
 ---
 
-## 🎭 Playwright
+ 🎭 Playwright
 
 My automation work includes exploring Playwright for web application testing.
 
