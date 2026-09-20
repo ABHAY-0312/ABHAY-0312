@@ -1,481 +1,266 @@
 <div align="center">
 
-<!-- ==================== HEADER ==================== -->
+# 👋 Hi, I'm Abhay
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1224,50:123B5D,100:00D9FF&height=230&section=header&text=ABHAY&fontSize=72&fontColor=FFFFFF&fontAlignY=38&desc=Quality%20Engineering%20%7C%20Automation%20%7C%20Development&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+### `Quality Engineering Intern @ Deloitte` · `Java Developer` · `Test Automation`
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=Quality+Engineering+%7C+Test+Automation;Java+%7C+Playwright+%7C+TestNG;Building+Reliable+Software;Developer+%7C+Problem+Solver;Learn+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Improve" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=850&lines=Quality+Engineering+Intern+%40+Deloitte;Java+%7C+Playwright+%7C+TestNG;Automation+%7C+Web+Testing+%7C+Database+Testing;Developer+%26+Problem+Solver;Building+Projects+%26+Exploring+Technology;Turning+Ideas+into+Digital+Solutions" alt="Typing SVG"/>
-
-<br><br>
+<br/>
 
 <a href="https://github.com/ABHAY-0312">
-<img src="https://komarev.com/ghpvc/?username=ABHAY-0312&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/GitHub-ABHAY--0312-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<a href="https://github.com/ABHAY-0312?tab=followers">
-<img src="https://img.shields.io/github/followers/ABHAY-0312?label=FOLLOWERS&style=for-the-badge&color=123B5D&logo=github" alt="GitHub Followers"/>
-</a>
-
-<a href="https://github.com/ABHAY-0312?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-0A1224?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Repositories"/>
-</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Java-Developer-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Quality-Engineering-00D9FF?style=for-the-badge&logo=testinglibrary&logoColor=white"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 🚀 About Me
 
-Hi, I'm **Abhay** 👋
+I'm **Abhay**, currently working as a **Quality Engineering Intern at Deloitte**, with a strong interest in software quality, test automation, backend development, and modern web technologies.
 
-I'm a **Quality Engineering Intern at Deloitte** with a strong interest in **Software Testing, Test Automation, Java, Playwright, Web Development, AI, and technology-driven projects**.
+I enjoy understanding how software works **from both the developer and tester perspective** — building applications, designing test scenarios, automating repetitive workflows, identifying issues, and continuously improving software quality.
 
-I enjoy learning through practical projects, experimenting with new technologies, solving problems, and understanding how software is designed, developed, tested, and delivered.
+My current focus is on:
 
-### 🚀 What I'm Working On
+* 🧪 **Quality Engineering & Software Testing**
+* 🤖 **Test Automation**
+* ☕ **Java Development**
+* 🎭 **Playwright**
+* 🔍 **Web Application Testing**
+* 🗄️ **Database Testing**
+* 🌐 **Web & Backend Development**
+* 💡 **AI-powered applications & product development**
 
-- 🧪 Quality Engineering
-- 🤖 Test Automation
-- 🎭 Playwright
-- ☕ Java
-- 🧩 TestNG
-- 🌐 Web Application Testing
-- 🗄️ Database Testing
-- 🔗 REST API Testing
-- 💻 Software Development
-- 🤖 AI-powered applications
-
-<br>
-
-> **Learn → Build → Test → Automate → Improve**
+> **Build it. Break it. Understand it. Improve it.**
 
 ---
 
-# 💼 Quality Engineering Intern
-
-## Deloitte
-
-As a **Quality Engineering Intern at Deloitte**, I'm gaining practical exposure to software testing, automation, quality engineering, and software development practices.
-
-### 🔍 Areas of Work
-
-| Area | Focus |
-|---|---|
-| 🧪 Software Testing | Functional, Regression & UI Testing |
-| 🤖 Test Automation | Automated Web Testing |
-| 🎭 Playwright | Browser Automation & E2E Testing |
-| ☕ Java | Automation Framework Development |
-| 🧩 TestNG | Test Execution & Organization |
-| 🌐 Web Testing | UI & Functional Validation |
-| 🗄️ Database Testing | Data Validation & Verification |
-| 🔗 API Testing | REST API Testing |
-| 🔧 Git & GitHub | Version Control & Collaboration |
-
----
-
-# 🛠️ Tech Stack
-
-## 🧪 Testing & Automation
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-<img src="https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testng&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-</p>
-
-### Testing Skills
-
-- Software Testing
-- Functional Testing
-- Regression Testing
-- UI Testing
-- Web Application Testing
-- Test Case Design
-- Test Automation
-- End-to-End Testing
-- Database Testing
-- API Testing
-
----
-
-## 💻 Development
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-</p>
-
-- Java
-- JavaScript
-- HTML5
-- CSS3
-- Android Development
-- REST API Integration
-- Application Development
-
----
-
-## 🗄️ Database & Backend
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-
-</p>
-
-- Supabase
-- Firebase
-- REST APIs
-- Database Integration
-- Data Validation
-- Backend Integration
-
----
-
-## 🔧 Tools & Platforms
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-
-</p>
-
----
-
-## 🤖 AI & Product
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-
-</p>
-
-- AI-Assisted Development
-- AI Product Development
-- AI-powered Applications
-- Product Prototyping
-- Technology Research
-- Problem Solving
-
----
-
-## 🎨 Design
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white"/>
-
-</p>
-
-- UI/UX Design
-- Responsive Web Design
-- Figma
-- Adobe Creative Cloud
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-## 🛡️ TrustCheck India
-
-### Community-Powered Scam Awareness Platform
-
-`Android` `Firebase` `Room DB` `AI` `Offline-First`
-
-</div>
-
-TrustCheck India is a technology-driven platform focused on helping users identify and report potential scams.
-
-### ✨ Features
-
-- 📱 Phone / Email / Google Authentication
-- 📝 Scam Reporting
-- 🔍 Duplicate Detection
-- 🤖 AI-powered Local Scam Detection
-- 🏆 Community Badges & Achievements
-- 💡 Daily Safety Tips
-- 📦 Offline-first architecture
-- 🔄 Remote Data Synchronization
-
-<br>
-
-<div align="center">
-
-## 🎓 AKTU Student Hub
-
-### Academic Companion for AKTU Students
-
-`Android` `Java` `Supabase` `REST API`
-
-</div>
-
-### ✨ Features
-
-- 📊 SGPA Calculator
-- 📈 CGPA Calculator
-- 📚 Notes
-- 📖 Syllabus
-- 🔔 Notifications
-- 📅 Academic Calendar
-- 🔗 Supabase Backend Integration
-- 🌐 REST API Integration
-
----
-
-# 🏆 Achievements & Experience
-
-<div align="center">
+## 💼 What I Do
 
 <table>
 <tr>
-<td align="center">
+<td width="50%">
 
-💼
-<br>
-<b>Professional Experience</b>
-<br>
-Quality Engineering Intern @ Deloitte
+### 🧪 Quality Engineering
 
-</td>
-
-<td align="center">
-
-🚀
-<br>
-<b>AI & Technology</b>
-<br>
-Selected for State Level Building with OpenAI – NxtWave
+* Functional Testing
+* UI Testing
+* Regression Testing
+* Test Case Design
+* Web Application Testing
+* Database Testing
+* Test Automation
+* Automation Frameworks
 
 </td>
 
-<td align="center">
+<td width="50%">
 
-🧪
-<br>
-<b>Engineering Focus</b>
-<br>
-Software Testing & Automation
+### 💻 Development
 
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-💻
-<br>
-<b>Development</b>
-<br>
-Android, Web & Backend Projects
-
-</td>
-
-<td align="center">
-
-🤖
-<br>
-<b>Artificial Intelligence</b>
-<br>
-AI-powered Applications
-
-</td>
-
-<td align="center">
-
-📚
-<br>
-<b>Continuous Learning</b>
-<br>
-Technology & Problem Solving
+* Java Development
+* JavaScript
+* REST APIs
+* Web Development
+* Android Development
+* Database Integration
+* AI-assisted Development
+* Product Prototyping
 
 </td>
 </tr>
 </table>
 
+---
+
+## 🛠️ Tech Stack
+
+### ☕ Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css" />
+</p>
+
+### 🧪 Testing & Automation
+
+<p>
+<img src="https://skillicons.dev/icons?i=playwright" />
+&nbsp;
+<img src="https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testng&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Quality%20Engineering-00D9FF?style=for-the-badge"/>
+</p>
+
+### 🗄️ Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=supabase,firebase" />
+&nbsp;
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+### 🔧 Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" />
+</p>
+
+---
+
+## 🧠 Engineering Mindset
+
+```text
+                    ┌─────────────────────┐
+                    │      PROBLEM        │
+                    └──────────┬──────────┘
+                               ↓
+                    ┌─────────────────────┐
+                    │     UNDERSTAND      │
+                    └──────────┬──────────┘
+                               ↓
+                    ┌─────────────────────┐
+                    │       BUILD         │
+                    └──────────┬──────────┘
+                               ↓
+                    ┌─────────────────────┐
+                    │        TEST         │
+                    └──────────┬──────────┘
+                               ↓
+                    ┌─────────────────────┐
+                    │      AUTOMATE       │
+                    └──────────┬──────────┘
+                               ↓
+                    ┌─────────────────────┐
+                    │      IMPROVE        │
+                    └─────────────────────┘
+```
+
+I believe good software isn't just about making features work.
+
+It's about making them **reliable, maintainable, testable, and useful**.
+
+---
+
+## 🏆 Highlights
+
+<div align="center">
+
+|    | Experience & Achievements                                   |
+| -- | ----------------------------------------------------------- |
+| 💼 | **Quality Engineering Intern @ Deloitte**                   |
+| 🧪 | Working with **Software Testing & Test Automation**         |
+| 🚀 | Built **AI-powered & technology-driven projects**           |
+| 🏅 | Selected for **State-Level Building with OpenAI — NxtWave** |
+| 💻 | Experience across **Development + Quality Engineering**     |
+
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=ABHAY-0312&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight"
-alt="Abhay GitHub Stats"
-width="49%"
-/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ABHAY-0312&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github"/>
 
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=ABHAY-0312&theme=tokyonight&hide_border=true"
-alt="Abhay GitHub Streak"
-width="49%"
-/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ABHAY-0312&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
 
-</div>
+<br/><br/>
 
-<br>
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHAY-0312&layout=donut&langs_count=8&hide_border=true&theme=tokyonight"
-alt="Abhay Top Languages"
-width="42%"
-/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHAY-0312&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=ABHAY-0312&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
-alt="GitHub Trophies"
-width="90%"
-/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=ABHAY-0312&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"
-alt="GitHub Contribution Activity Graph"
-width="100%"
-/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img
-src="https://raw.githubusercontent.com/ABHAY-0312/ABHAY-0312/output/github-contribution-grid-snake.svg"
-alt="GitHub Contribution Snake"
-width="100%"
-/>
-
-</div>
-
----
-
-# 💻 Developer Journey
+## 📈 My Developer Journey
 
 ```java
 public class Abhay {
 
-    private final String name = "Abhay";
-
     private final String role =
             "Quality Engineering Intern @ Deloitte";
+
+    private final String[] focus = {
+        "Quality Engineering",
+        "Test Automation",
+        "Java Development",
+        "Web Testing",
+        "Software Development"
+    };
 
     private final String[] technologies = {
         "Java",
         "Playwright",
-        "JavaScript",
         "TestNG",
-        "HTML",
-        "CSS",
+        "JavaScript",
         "Git",
-        "GitHub"
+        "REST APIs",
+        "Supabase",
+        "Firebase"
     };
 
-    private final String[] focusAreas = {
-        "Software Testing",
-        "Test Automation",
-        "Quality Engineering",
-        "Web Testing",
-        "Database Testing",
-        "API Testing",
-        "Web Development"
-    };
+    public void keepGrowing() {
 
-    private final String[] interests = {
-        "Automation",
-        "Clean Code",
-        "AI Products",
-        "Technology",
-        "Problem Solving"
-    };
-
-    public String goal() {
-        return "Learn, build, test and improve";
-    }
-
-    public void dailyRoutine() {
-
-        while (alive) {
+        while (true) {
 
             learn();
-            code();
+            build();
             test();
             automate();
-            build();
+            solveProblems();
             improve();
 
         }
     }
+
+    public String mindset() {
+        return "Learn → Build → Test → Improve";
+    }
 }
+```
 
-🎯 2026 Goals
+---
+
+## 🌱 Currently Learning
+
+```text
+→ Advanced Test Automation
+→ Playwright Automation
+→ Java & TestNG
+→ Quality Engineering Practices
+→ Database Testing
+→ Web Application Testing
+→ Automation Framework Design
+→ AI-assisted Software Development
+```
+
+---
+
+## 🎯 What I'm Working Towards
+
+Building strong expertise at the intersection of:
+
+**Software Development × Quality Engineering × Automation × AI**
+
+I want to create software that is not only functional, but also **reliable, maintainable, and production-ready**.
+
+---
+
 <div align="center">
-Goal	Focus
-☕ Java	Advanced Java & Problem Solving
-🎭 Playwright	Advanced Browser Automation
-🧪 Testing	Automation & Quality Engineering
-🔗 API	REST API Testing
-🗄️ Database	Advanced Database Testing
-🤖 AI	AI Engineering & AI Products
-🚀 Projects	Production-Ready Applications
-🌐 Open Source	Contributions & Collaboration
+
+### 💙 Thanks for visiting my profile!
+
+**Let's build something meaningful.**
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=ABHAY-0312&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
+
 </div>
-📚 Currently Learning
-Java
-   ↓
-Test Automation
-   ↓
-Playwright
-   ↓
-API Testing
-   ↓
-Database Testing
-   ↓
-Quality Engineering
-   ↓
-AI Engineering
-🌐 Connect With Me
-<div align="center"> <a href="https://github.com/ABHAY-0312"> <img src="https://img.shields.io/badge/GitHub-ABHAY--0312-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </div> <br> <div align="center">
-💡 Build. Test. Automate. Improve.
-<br>
-
-⭐ Thanks for visiting my profile!
-
-</div> <br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:123B5D,100:0A1224&height=130&section=footer" width="100%"/>
