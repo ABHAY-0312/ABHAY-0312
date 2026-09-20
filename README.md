@@ -11,15 +11,12 @@
 <a href="https://github.com/ABHAY-0312">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
 <a href="https://www.linkedin.com/in/abhay-608339248/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 <a href="https://port-folio-abhay-eosin.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
-
 <a href="mailto:abhay.dec03@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
@@ -107,16 +104,11 @@ As a **Quality Engineering Intern**, I get practical exposure to software testin
 <img src="https://img.shields.io/badge/Database_Testing-6C63FF?style=for-the-badge" alt="Database Testing"/>
 </p>
 
-### 🎨 Design
+### 🎨 Design & AI
 
 <p>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe"/>
-</p>
-
-### 🤖 AI
-
-<p>
 <img src="https://img.shields.io/badge/AI--Assisted_Development-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI-Assisted Development"/>
 </p>
 
@@ -128,212 +120,210 @@ As a **Quality Engineering Intern**, I get practical exposure to software testin
 
 | Area | Focus |
 |---|---|
-| 🧪 Software Testing | Functional Testing, UI Testing, Regression Testing |
-| 🤖 Automation | Java, Playwright, TestNG |
-| 🌐 Web Testing | Browser Automation, Locators, Assertions |
-| 🗄️ Database | Data Validation & Database Testing |
-| 🧩 Automation | Page Object Model & Test Structure |
-| 🔍 Quality | Test Cases, Test Execution & Defect Identification |
+| 🧪 **Software Testing** | Functional Testing, UI Testing, Regression Testing |
+| 🤖 **Automation** | Java, Playwright, TestNG |
+| 🌐 **Web Testing** | Browser Automation, Locators, Assertions |
+| 🗄️ **Database** | Data Validation & Database Testing |
+| 🧩 **Automation** | Page Object Model & Test Structure |
+| 🔍 **Quality** | Test Cases, Test Execution & Defect Identification |
 
 ---
 
- 🎭 Playwright
+## 🎭 Playwright
 
-My automation work includes exploring Playwright for web application testing.
+My automation work includes exploring Playwright for web application testing. 
 
 ```text
-Browser
-   │
-   ▼
-Page
-   │
-   ▼
-Locator
-   │
-   ▼
-Action
-   │
-   ▼
-Assertion
-   │
-   ▼
+  Browser
+     │
+     ▼
+   Page
+     │
+     ▼
+  Locator
+     │
+     ▼
+  Action
+     │
+     ▼
+ Assertion
+     │
+     ▼
 Test Result
-Automation Concepts
-Browser Automation
-Locators
-Assertions
-Test Execution
-Page Object Model
-Cross-Browser Testing
-Test Organization
-🚀 Featured Projects
-🛡️ TrustCheck India
-Community-Powered Scam Awareness Platform
+```
+
+### Automation Concepts
+- Browser Automation
+- Locators
+- Assertions
+- Test Execution
+- Page Object Model
+- Cross-Browser Testing
+- Test Organization
+
+---
+
+## 🚀 Featured Projects
+
+### 🛡️ TrustCheck India
+**Community-Powered Scam Awareness Platform**
 
 TrustCheck India is a project focused on helping users identify and report potential scams.
 
-✨ Features
-🔐 Phone OTP Authentication
-📧 Email Authentication
-🔑 Google Authentication
-🚨 Scam Reporting
-🤖 AI-Assisted Scam Detection
-🔍 Duplicate Report Detection
-📱 Offline-First Approach
-💾 Local Data Caching
-🏆 Community Badges
-💡 Daily Safety Tips
-☁️ Cloud Database Integration
-🧰 Technologies
-Android
-Java
-Firebase
-Supabase
-AI
-Authentication
-Database
-REST APIs
-Offline Storage
-📚 AKTU Student Hub
-Academic Utility Application
+**✨ Features:**
+- 🔐 Phone OTP Authentication
+- 📧 Email Authentication
+- 🔑 Google Authentication
+- 🚨 Scam Reporting
+- 🤖 AI-Assisted Scam Detection
+- 🔍 Duplicate Report Detection
+- 📱 Offline-First Approach
+- 💾 Local Data Caching
+- 🏆 Community Badges
+- 💡 Daily Safety Tips
+- ☁️ Cloud Database Integration
+
+**🧰 Technologies:** Android, Java, Firebase, Supabase, AI, REST APIs, Offline Storage
+
+### 📚 AKTU Student Hub
+**Academic Utility Application**
 
 AKTU Student Hub is an Android application designed to provide useful academic tools and resources for students.
 
-✨ Features
-📊 SGPA Calculator
-📈 CGPA Calculator
-📚 Notes
-📖 Syllabus
-🔔 Notifications
-📅 Academic Calendar
-🎓 Student Resources
-🧰 Technologies
-Android
-Java
-Supabase
-REST API
-Database
-UI Development
-🤖 AI & Product Development
+**✨ Features:**
+- 📊 SGPA & CGPA Calculators
+- 📚 Notes & Syllabus
+- 🔔 Notifications
+- 📅 Academic Calendar
+- 🎓 Student Resources
 
-I enjoy exploring how AI can help turn ideas into useful applications.
+**🧰 Technologies:** Android, Java, Supabase, REST API, UI Development
 
-             💡 IDEA
-                │
-                ▼
-          🤖 AI EXPLORATION
-                │
-                ▼
-             💻 BUILD
-                │
-                ▼
-              🧪 TEST
-                │
-                ▼
-            🔧 IMPROVE
-                │
-                ▼
-             🚀 DEPLOY
+---
 
-I'm interested in combining:
+## 🤖 AI & Product Development
 
-AI
-+
-Software Development
-+
-Quality Engineering
-+
-Automation
+I enjoy exploring how AI can help turn ideas into useful applications. I'm interested in combining **AI + Software Development + Quality Engineering + Automation** to build useful and reliable digital products.
 
-to build useful and reliable digital products.
+```text
+       💡 IDEA
+          │
+          ▼
+   🤖 AI EXPLORATION
+          │
+          ▼
+       💻 BUILD
+          │
+          ▼
+       🧪 TEST
+          │
+          ▼
+     🔧 IMPROVE
+          │
+          ▼
+      🚀 DEPLOY
+```
 
-🧠 How I Approach Problems
-        Understand
-            ↓
-        Break Down
-            ↓
-          Build
-            ↓
-          Test
-            ↓
-        Find Issues
-            ↓
-           Fix
-            ↓
-         Improve
-            ↓
-         Repeat 🔄
+---
 
-"Good software is not only built. It is tested, improved, and continuously refined."
+## 🧠 How I Approach Problems
 
-🏆 Highlights
-<div align="center">
-💼 Quality Engineering Intern @ Deloitte
-🎖️ Selected for State Level Building with OpenAI — NxtWave
-🛡️ Built TrustCheck India
-📚 Built AKTU Student Hub
-🎭 Working with Playwright
-☕ Working with Java
-🤖 Exploring AI-Assisted Development
-</div>
-🎯 My Current Technical Direction
-                  SOFTWARE ENGINEERING
+```text
+ Understand ➡️ Break Down ➡️ Build ➡️ Test ➡️ Find Issues ➡️ Fix ➡️ Improve ➡️ Repeat 🔄
+```
+
+> *"Good software is not only built. It is tested, improved, and continuously refined."*
+
+---
+
+## 🎯 My Current Technical Direction
+
+I'm building my foundation across software quality, automation, development, and problem-solving.
+
+```text
+                 SOFTWARE ENGINEERING
                           │
              ┌────────────┴────────────┐
              │                         │
              ▼                         ▼
-     QUALITY ENGINEERING        DEVELOPMENT
+    QUALITY ENGINEERING           DEVELOPMENT
              │                         │
              ▼                         ▼
-      TEST AUTOMATION               JAVA
+      TEST AUTOMATION                 JAVA
              │                         │
              ▼                         ▼
-        PLAYWRIGHT             WEB DEVELOPMENT
+         PLAYWRIGHT              WEB DEVELOPMENT
              │                         │
              └────────────┬────────────┘
                           │
                           ▼
                    BETTER SOFTWARE
+```
 
-I'm building my foundation across software quality, automation, development, and problem solving.
+---
 
-📚 My Learning Philosophy
-        Learn
-          ↓
-       Practice
-          ↓
-        Build
-          ↓
-         Test
-          ↓
-        Break
-          ↓
-         Fix
-          ↓
-       Improve
-          ↓
-        Repeat 🔄
+## 📚 My Learning Philosophy
 
-"Learn by building. Improve by practicing."
+```text
+ Learn ➡️ Practice ➡️ Build ➡️ Test ➡️ Break ➡️ Fix ➡️ Improve ➡️ Repeat 🔄
+```
 
-🌐 Portfolio
-<div align="center"> <a href="https://port-folio-abhay-eosin.vercel.app/"> <img src="https://img.shields.io/badge/🚀_VISIT_MY_PORTFOLIO-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio"/> </a>
+> *"Learn by building. Improve by practicing."*
 
-<br><br>
+---
 
-Explore my projects, experiments, technical work, and creative ideas.
+## 🏆 Highlights
+
+<div align="center">
+  
+💼 Quality Engineering Intern @ Deloitte <br>
+🎖️ Selected for State Level Building with OpenAI — NxtWave <br>
+🛡️ Built TrustCheck India <br>
+📚 Built AKTU Student Hub <br>
+🎭 Working with Playwright & ☕ Java <br>
+🤖 Exploring AI-Assisted Development <br>
 
 </div>
-📊 GitHub
-<div align="center"> <a href="https://github.com/ABHAY-0312"> <img src="https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/> </a> <a href="https://github.com/ABHAY-0312?tab=repositories"> <img src="https://img.shields.io/badge/View_Repositories-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories"/> </a> </div>
-🤝 Let's Connect
-<div align="center">
-💬 Let's learn, build and connect.
-<br> <a href="https://www.linkedin.com/in/abhay-608339248/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:abhay.dec03@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://github.com/ABHAY-0312"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://port-folio-abhay-eosin.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/> </a> </div>
-<div align="center"> <br>
-🚀 Learn. Build. Test. Automate. Improve.
-<br> <img src="https://komarev.com/ghpvc/?username=ABHAY-0312&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+
+---
+
+## 🌐 Connect & Explore
+
+<div align="center"> 
+  
+### Portfolio
+<a href="https://port-folio-abhay-eosin.vercel.app/"> 
+  <img src="https://img.shields.io/badge/🚀_VISIT_MY_PORTFOLIO-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio"/> 
+</a>
+<br>
+<em>Explore my projects, experiments, technical work, and creative ideas.</em>
+
+### GitHub
+<a href="https://github.com/ABHAY-0312"> 
+  <img src="https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/> 
+</a> 
+<a href="https://github.com/ABHAY-0312?tab=repositories"> 
+  <img src="https://img.shields.io/badge/View_Repositories-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories"/> 
+</a>
+
+### Let's Connect
+💬 *Let's learn, build and connect.*
+<br> 
+<a href="https://www.linkedin.com/in/abhay-608339248/"> 
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
+</a> 
+<a href="mailto:abhay.dec03@gmail.com"> 
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> 
+</a> 
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:123B5D,100:0A1224&height=120&section=footer" width="100%" alt="Footer"/> </div> ```
+**🚀 Learn. Build. Test. Automate. Improve.**
+
+<img src="https://komarev.com/ghpvc/?username=ABHAY-0312&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:123B5D,100:0A1224&height=120&section=footer" width="100%" alt="Footer"/> 
+
+</div>
