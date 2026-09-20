@@ -158,3 +158,182 @@ Assertion
    │
    ▼
 Test Result
+Automation Concepts
+Browser Automation
+Locators
+Assertions
+Test Execution
+Page Object Model
+Cross-Browser Testing
+Test Organization
+🚀 Featured Projects
+🛡️ TrustCheck India
+Community-Powered Scam Awareness Platform
+
+TrustCheck India is a project focused on helping users identify and report potential scams.
+
+✨ Features
+🔐 Phone OTP Authentication
+📧 Email Authentication
+🔑 Google Authentication
+🚨 Scam Reporting
+🤖 AI-Assisted Scam Detection
+🔍 Duplicate Report Detection
+📱 Offline-First Approach
+💾 Local Data Caching
+🏆 Community Badges
+💡 Daily Safety Tips
+☁️ Cloud Database Integration
+🧰 Technologies
+Android
+Java
+Firebase
+Supabase
+AI
+Authentication
+Database
+REST APIs
+Offline Storage
+📚 AKTU Student Hub
+Academic Utility Application
+
+AKTU Student Hub is an Android application designed to provide useful academic tools and resources for students.
+
+✨ Features
+📊 SGPA Calculator
+📈 CGPA Calculator
+📚 Notes
+📖 Syllabus
+🔔 Notifications
+📅 Academic Calendar
+🎓 Student Resources
+🧰 Technologies
+Android
+Java
+Supabase
+REST API
+Database
+UI Development
+🤖 AI & Product Development
+
+I enjoy exploring how AI can help turn ideas into useful applications.
+
+             💡 IDEA
+                │
+                ▼
+          🤖 AI EXPLORATION
+                │
+                ▼
+             💻 BUILD
+                │
+                ▼
+              🧪 TEST
+                │
+                ▼
+            🔧 IMPROVE
+                │
+                ▼
+             🚀 DEPLOY
+
+I'm interested in combining:
+
+AI
++
+Software Development
++
+Quality Engineering
++
+Automation
+
+to build useful and reliable digital products.
+
+🧠 How I Approach Problems
+        Understand
+            ↓
+        Break Down
+            ↓
+          Build
+            ↓
+          Test
+            ↓
+        Find Issues
+            ↓
+           Fix
+            ↓
+         Improve
+            ↓
+         Repeat 🔄
+
+"Good software is not only built. It is tested, improved, and continuously refined."
+
+🏆 Highlights
+<div align="center">
+💼 Quality Engineering Intern @ Deloitte
+🎖️ Selected for State Level Building with OpenAI — NxtWave
+🛡️ Built TrustCheck India
+📚 Built AKTU Student Hub
+🎭 Working with Playwright
+☕ Working with Java
+🤖 Exploring AI-Assisted Development
+</div>
+🎯 My Current Technical Direction
+                  SOFTWARE ENGINEERING
+                          │
+             ┌────────────┴────────────┐
+             │                         │
+             ▼                         ▼
+     QUALITY ENGINEERING        DEVELOPMENT
+             │                         │
+             ▼                         ▼
+      TEST AUTOMATION               JAVA
+             │                         │
+             ▼                         ▼
+        PLAYWRIGHT             WEB DEVELOPMENT
+             │                         │
+             └────────────┬────────────┘
+                          │
+                          ▼
+                   BETTER SOFTWARE
+
+I'm building my foundation across software quality, automation, development, and problem solving.
+
+📚 My Learning Philosophy
+        Learn
+          ↓
+       Practice
+          ↓
+        Build
+          ↓
+         Test
+          ↓
+        Break
+          ↓
+         Fix
+          ↓
+       Improve
+          ↓
+        Repeat 🔄
+
+"Learn by building. Improve by practicing."
+
+🌐 Portfolio
+<div align="center"> <a href="https://port-folio-abhay-eosin.vercel.app/"> <img src="https://img.shields.io/badge/🚀_VISIT_MY_PORTFOLIO-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio"/> </a>
+
+<br><br>
+
+Explore my projects, experiments, technical work, and creative ideas.
+
+</div>
+📊 GitHub
+<div align="center"> <a href="https://github.com/ABHAY-0312"> <img src="https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/> </a> <a href="https://github.com/ABHAY-0312?tab=repositories"> <img src="https://img.shields.io/badge/View_Repositories-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories"/> </a> </div>
+🤝 Let's Connect
+<div align="center">
+💬 Let's learn, build and connect.
+<br> <a href="https://www.linkedin.com/in/abhay-608339248/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:abhay.dec03@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://github.com/ABHAY-0312"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://port-folio-abhay-eosin.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/> </a> </div>
+<div align="center"> <br>
+🚀 Learn. Build. Test. Automate. Improve.
+<br> <img src="https://komarev.com/ghpvc/?username=ABHAY-0312&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:123B5D,100:0A1224&height=120&section=footer" width="100%" alt="Footer"/> </div> ```
