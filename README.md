@@ -161,43 +161,7 @@ Test Result
 - Cross-Browser Testing
 - Test Organization
 
----
 
-## 🚀 Featured Projects
-
-### 🛡️ TrustCheck India
-**Community-Powered Scam Awareness Platform**
-
-TrustCheck India is a project focused on helping users identify and report potential scams.
-
-**✨ Features:**
-- 🔐 Phone OTP Authentication
-- 📧 Email Authentication
-- 🔑 Google Authentication
-- 🚨 Scam Reporting
-- 🤖 AI-Assisted Scam Detection
-- 🔍 Duplicate Report Detection
-- 📱 Offline-First Approach
-- 💾 Local Data Caching
-- 🏆 Community Badges
-- 💡 Daily Safety Tips
-- ☁️ Cloud Database Integration
-
-**🧰 Technologies:** Android, Java, Firebase, Supabase, AI, REST APIs, Offline Storage
-
-### 📚 AKTU Student Hub
-**Academic Utility Application**
-
-AKTU Student Hub is an Android application designed to provide useful academic tools and resources for students.
-
-**✨ Features:**
-- 📊 SGPA & CGPA Calculators
-- 📚 Notes & Syllabus
-- 🔔 Notifications
-- 📅 Academic Calendar
-- 🎓 Student Resources
-
-**🧰 Technologies:** Android, Java, Supabase, REST API, UI Development
 
 ---
 
@@ -278,8 +242,6 @@ I'm building my foundation across software quality, automation, development, and
   
 💼 Quality Engineering Intern @ Deloitte <br>
 🎖️ Selected for State Level Building with OpenAI — NxtWave <br>
-🛡️ Built TrustCheck India <br>
-📚 Built AKTU Student Hub <br>
 🎭 Working with Playwright & ☕ Java <br>
 🤖 Exploring AI-Assisted Development <br>
 
