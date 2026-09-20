@@ -199,12 +199,23 @@ As a **Quality Engineering Intern**, I'm gaining practical exposure to software 
 ---
 
 # 📊 GitHub Analytics
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ABHAY-0312&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="Abhay GitHub Stats" width="49%"/>
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=ABHAY-0312&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight"
+  alt="Abhay GitHub Stats"
+  width="49%"
+/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ABHAY-0312&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Abhay GitHub Streak" width="49%"/>
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=ABHAY-0312&theme=tokyonight&hide_border=true"
+  alt="Abhay GitHub Streak"
+  width="49%"
+/>
 
 </div>
 
@@ -212,11 +223,41 @@ As a **Quality Engineering Intern**, I'm gaining practical exposure to software 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHAY-0312&layout=donut&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="42%"/>
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHAY-0312&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
+  alt="Abhay Top Languages"
+  width="45%"
+/>
 
 </div>
 
 ---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img 
+  src="https://github-profile-trophy.vercel.app/?username=ABHAY-0312&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
+  alt="GitHub Trophies"
+  width="90%"
+/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ABHAY-0312&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"
+  alt="GitHub Contribution Activity Graph"
+  width="100%"
+/>
+
+</div>
 
 # 🏆 GitHub Trophies
 
