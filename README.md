@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🌟 Abhay | Quality Engineering & Digital Innovation
+# 🌟 Abhay | Learning, Building & Exploring Technology
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=Quality+Engineering+%40+Deloitte;Automation+Testing+%7C+Java+%7C+Playwright;Creative+Developer+%26+Problem+Solver;Building+Reliable+Digital+Experiences;Turning+Ideas+into+Elegant+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=Quality+Engineering+Intern+%40+Deloitte;Learning+Java+%7C+Playwright+%7C+Automation;Creative+Developer+%26+Problem+Solver;Building+Projects+%26+Exploring+Technology;Turning+Ideas+into+Digital+Solutions)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,19 +10,23 @@
 
 ## 👨‍💻 About Me
 
-> *"Every line of code is a brushstroke on the canvas of innovation."*
+> *"Every line of code is a step toward becoming a better developer."*
 
 Hi, I'm **Abhay** 👋
 
-I'm a **Quality Engineering professional at Deloitte**, passionate about **software testing, test automation, Java development, AI-powered applications, and modern technology**.
+I'm currently a **Quality Engineering Intern at Deloitte**, where I'm learning and gaining hands-on exposure to **software testing, automation, Java, Playwright, and modern engineering practices**.
 
-I enjoy working at the intersection of **software quality, automation, development, and product innovation**. My goal is to build software that is reliable, maintainable, scalable, and user-friendly.
+I'm passionate about technology and enjoy learning by **building projects, experimenting with new tools, solving problems, and exploring how software works**.
 
-### 💼 Currently Working
+I'm currently focused on improving my skills in **Quality Engineering, Test Automation, Java, Playwright, Web Development, and AI-powered applications**. 🚀
 
-**Deloitte — Quality Engineering**
+---
 
-I'm currently working in **Quality Engineering at Deloitte**, where I'm building my knowledge and practical experience in:
+## 💼 Currently Learning at Deloitte
+
+### Quality Engineering Intern
+
+As an intern, I'm currently learning and exploring:
 
 - 🧪 Software Testing
 - 🤖 Test Automation
@@ -31,26 +35,29 @@ I'm currently working in **Quality Engineering at Deloitte**, where I'm building
 - 🔍 Quality Engineering
 - 🌐 Web Application Testing
 - 🧩 Automation Frameworks
-- 📊 Software Quality Practices
+- 🗄️ Database Testing
+- 📚 Software Development & Testing Practices
+
+> **Learning → Practicing → Building → Improving**
 
 ---
 
 ## 🚀 What I'm Currently Learning
 
 - ☕ **Advanced Java**
-- 🎭 **Playwright Automation**
+- 🎭 **Playwright**
 - 🧪 **Automation Testing**
 - 🔍 **Software Testing**
 - 🗄️ **Database Testing**
 - 🌐 **Web Application Testing**
-- 🏗️ **Test Automation Framework Design**
+- 🏗️ **Automation Frameworks**
 - 💻 **Web Development**
-- 🤖 **AI-Assisted Product Development**
+- 🤖 **AI-Assisted Development**
 - 📊 **Product Management**
 
 ---
 
-## 🧠 Skills & Expertise
+## 🧠 Skills I'm Developing
 
 ### 🧪 Quality Engineering
 
@@ -63,7 +70,6 @@ I'm currently working in **Quality Engineering at Deloitte**, where I'm building
 - Test Case Design
 - Defect Identification
 - Quality Assurance
-- Test Automation
 
 ### 🤖 Automation
 
@@ -71,7 +77,6 @@ I'm currently working in **Quality Engineering at Deloitte**, where I'm building
 - Playwright
 - JavaScript
 - TestNG
-- Automation Frameworks
 - Web Automation
 - Page Object Model
 - Assertions
@@ -91,10 +96,9 @@ I'm currently working in **Quality Engineering at Deloitte**, where I'm building
 
 - AI-Assisted Development
 - AI Product Development
-- Product Strategy
+- Product Ideas & Prototyping
 - Product Management
 - Problem Solving
-- Rapid Prototyping
 
 ### 🎨 Design
 
@@ -105,17 +109,17 @@ I'm currently working in **Quality Engineering at Deloitte**, where I'm building
 
 ---
 
-## 🏆 Achievements & Recognition
+## 🏆 Achievements & Experiences
 
 <div align="center">
 
-💼 **Quality Engineering Professional @ Deloitte**
+💼 **Quality Engineering Intern @ Deloitte**
 
 🎖️ **Selected for State Level Building with OpenAI** | NxtWave
 
-📚 **Product Management & Product Development**
+🚀 **Building AI-powered and technology-driven projects**
 
-🚀 **AI-Powered Product Development**
+📚 **Continuously Learning & Exploring New Technologies**
 
 </div>
 
@@ -183,13 +187,15 @@ I'm currently working in **Quality Engineering at Deloitte**, where I'm building
 
 ---
 
-## 💻 Current Focus
+## 💻 My Learning Journey
 
 ```java
 public class Abhay {
 
     private String name = "Abhay";
-    private String role = "Quality Engineering @ Deloitte";
+
+    private String currentRole =
+            "Quality Engineering Intern @ Deloitte";
 
     private String[] currentlyLearning = {
         "Advanced Java",
@@ -200,7 +206,7 @@ public class Abhay {
         "Web Development"
     };
 
-    private String[] technicalSkills = {
+    private String[] technologies = {
         "Java",
         "Playwright",
         "JavaScript",
@@ -211,37 +217,28 @@ public class Abhay {
         "GitHub"
     };
 
-    private String[] professionalSkills = {
-        "Quality Engineering",
-        "Software Testing",
-        "Test Automation",
-        "Problem Solving",
-        "Product Management",
-        "AI-Assisted Development"
-    };
-
     private String[] interests = {
         "Test Automation",
-        "Clean Code",
         "Software Quality",
+        "Clean Code",
         "AI Products",
         "Technology",
         "Problem Solving"
     };
 
-    public String specialAbility() {
-        return "Building reliable software and automated solutions";
+    public String goal() {
+        return "Learn, build, improve and become a better engineer";
     }
 
     public void dailyRoutine() {
 
         while (alive) {
 
+            learn();
             code();
             test();
             automate();
-            learn();
-            create();
+            build();
             improve();
 
         }
