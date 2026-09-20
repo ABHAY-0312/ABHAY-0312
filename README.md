@@ -127,21 +127,15 @@ I'm working as a **Quality Engineering Intern at Deloitte**, where I get exposur
 
 ---
 
+
 ## 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ABHAY-0312&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="Abhay's GitHub Stats" width="48%"/>
-
-<img src="https://streak-stats.demolab.com/?user=ABHAY-0312&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="Abhay's GitHub Streak" width="48%"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHAY-0312&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" width="40%"/>
+<img 
+  src="https://streak-stats.demolab.com/?user=ABHAY-0312&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" 
+  alt="Abhay's GitHub Streak"
+/>
 
 </div>
 
